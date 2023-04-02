@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+
+body {
+    background-color:azure;
+}
+
+#clock-h1 {
+    display: flex;
+    justify-content: flex-end;
+}
